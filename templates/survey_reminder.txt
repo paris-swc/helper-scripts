@@ -1,0 +1,14 @@
+Subject: Post-workshop survey - reminder
+
+Dear {firstname},
+
+We haven't received your feedback on the Python workshop. If you filled-in the post-workshop survey and you expect it might be an error on our side, please contact us. Otherwise, we would much appreciate if you could fill in this survey by DEADLINE:
+
+SURVEY_LINK
+
+We will share this information with all the instructors and organisers to help them improve the workshop in the future. We also need your feedback to monitor impact of the workshops and find support for future events. 
+
+Please let me know if you need any help with the survey.
+
+Yours organisers
+
