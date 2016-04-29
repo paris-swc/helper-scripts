@@ -1,4 +1,10 @@
-* `analyse_post_survey.py` -- print summary stats of post-evaluation survey
-* `analyse_survey.py` -- print summary stats of pre-evaluation survey
-* `check_unanswered.py` -- find students who did not fill in the survey yet
-* `send_emails.py` -- distribute email templates to a list of people
+# Helper scripts
+
+Scripts for organisers of Software Carpentry workshops:
+
+* `certificates` -- generate PDF certificates from participant list
+
+* `email_distribution` -- tools to send personalised emails
+
+* `suvrvey_analyse` -- analyse the results of a survey
+
