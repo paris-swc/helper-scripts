@@ -10,7 +10,7 @@ import shutil
 import os
 import pandas as pd
 
-participants = pd.DataFrame.from_csv('selected_participants_final.csv', index_col=None)
+participants = pd.DataFrame.from_csv('participants.csv', index_col=None)
 with file('certificate.tex') as fid:
     t = jinja2.Template(fid.read().decode('utf-8'))
 
